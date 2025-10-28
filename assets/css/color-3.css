@@ -1,0 +1,8 @@
+:root {
+	--conliz-base: #0568fd;
+	--conliz-base-rgb: 5, 104, 253;
+}
+
+.preloader__image {
+	background-image: url(../images/loader-3.png);
+}
